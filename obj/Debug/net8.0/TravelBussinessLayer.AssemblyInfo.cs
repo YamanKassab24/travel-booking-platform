@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelBussinessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f089103c999a57d6c62e8d4463feede15829afea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb7900362feb0e89af19ec986737382bfd9942f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelBussinessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelBussinessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
