@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TravelDataAccess\bin\Debug\net8.0\TravelDataAccess.deps.json
+C:\Users\ASUS\source\repos\TravelDataAccess\bin\Debug\net8.0\TravelDataAccess.dll
+C:\Users\ASUS\source\repos\TravelDataAccess\bin\Debug\net8.0\TravelDataAccess.pdb
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.dll
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\refint\TravelDataAccess.dll
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.pdb
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\ref\TravelDataAccess.dll
+C:\Users\ASUS\source\repos\TravelDataAccess\obj\Debug\net8.0\TravelDataAccess.csproj.AssemblyReference.cache
